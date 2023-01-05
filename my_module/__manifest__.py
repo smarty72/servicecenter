@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#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
 {
     'name': "my_module",
 
